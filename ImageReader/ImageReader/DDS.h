@@ -20,7 +20,7 @@ typedef unsigned long DWORD;
 typedef unsigned int UINT;
 
 typedef enum DXGI_FORMAT { DXGI_FORMAT_BC1_UNORM };
-typedef enum D3D10_RESOURCE_DIMENSION {	D3D10_RESOURCE_DIMENSION_TEXTURE2D };
+typedef enum D3D10_RESOURCE_DIMENSION { D3D10_RESOURCE_DIMENSION_TEXTURE2D };
 
 /*
  *		DDS Pixel Format

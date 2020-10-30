@@ -28,7 +28,7 @@ struct BitmapFileHeader
  *		- Immediately follows bitmap file header
  */
 struct DIBHeader {
-	
+
 	int infoHeaderSize;				// The size of this header
 	int width;						// Bitmap width in pixels
 	int height;						// Bitmap height in pixels
